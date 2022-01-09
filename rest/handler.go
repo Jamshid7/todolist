@@ -1,4 +1,4 @@
-package handler
+package rest
 
 import (
 	service "github.com/Jamshid7/todo-app/services"
